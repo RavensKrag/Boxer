@@ -1,7 +1,7 @@
 require 'rake/testtask'
 require 'rake/clean'
 
-NAME = 'automaton'
+NAME = 'boxer'
 ENABLE_C_EXTENSION = false
 
 def build_c_extension(name)
